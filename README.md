@@ -1,2 +1,2 @@
 # nvim_backup
- saving this so that i dont go through all of that again
+ old nvim config that i made, the one im using now is on dotfiles/
